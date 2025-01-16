@@ -1,0 +1,5 @@
+--indent=2             # Use 2 spaces for indentation
+--binary-next-line     # Place binary operators at the start of the line
+--switch-case-indent   # Indent switch cases
+--space-redirects      # Add spaces around redirects
+--simplify             # Apply additional simplifications
